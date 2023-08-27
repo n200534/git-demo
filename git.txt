@@ -3,3 +3,4 @@ gir add--adds new or changed files in your working directory to the Git staging 
 git add<file name>
 commit is the record of the change
 git commit -m "some message"
+git push-upload local repo content to remote repo
